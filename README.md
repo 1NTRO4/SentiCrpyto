@@ -39,6 +39,24 @@ LSTM
 Models are trained on 80% of the dataset.
 
 They are trained for 7 epochs with a batch size of 16.
+### Directory
+
+1- Annotated Dictionary- in this folder file containing the source used in scraping the web for top cryptocurrencies, exchanges and abbreviations and the annotated dictionary.
+
+a- Source code- top_crypto_scraping_annotation.ipynb
+
+b- Entity Dictionary  annotataion_dict.json
+
+2- data- in this folder the source code for scrapping the news headlines and the extracted headlines.
+
+source Code is -  main scrapping.ipynb
+
+Streamlit_app _  contains the trained model ands its configuration
+
+
+
+
+
 
 ### Evaluation
 All models are evaluated on the remaining 20% test set using accuracy and F1 score.
