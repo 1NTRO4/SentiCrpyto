@@ -68,4 +68,6 @@ JSON: For loading the entity dictionary (this is a standard library in Python an
 
 ### Running the App
 
-in your terminal run    streamlit run app.py
+in your terminal
+
+streamlit run app.py
