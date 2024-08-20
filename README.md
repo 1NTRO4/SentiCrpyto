@@ -51,7 +51,7 @@ b- Entity Dictionary  annotataion_dict.json
 
 source Code is -  main scrapping.ipynb
 
-Streamlit_app _  contains the trained model ands its configuration
+Streamlit_app(Interface) _  contains the trained model ands its configuration
 
 
 
